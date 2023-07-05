@@ -1,0 +1,40 @@
+Football score app
+
+There will be 4 screens
+Premier league
+La Liga
+Seria A
+Bundesliga
+People will be able to see the current games scoreline and upcoming games that week.
+
+Premier League
+
+Man City 1-0 Chelsea
+Brighton 1-1 Man City
+Brentford 1-0 Man City
+Man City 2-1 Man United
+Man City 1-0 Inter Milan
+
+La Liga
+
+Man City 4-0 Real Madrid
+Valencia 1-0 Real Madrid
+Real Madrid 2-1 Royo Vallacano
+Sevilla 1-2 Real Mardrid
+Real Madrid 1-1 Athletic Club
+
+Serie A
+
+Napoli 1-0 Fiorentina
+Napoli 0-2 Monza
+Napoli 3-3 Inter
+Bologna 2-2 Napoli
+Sampdoria 2-0 Napoli
+
+Bundesliga
+
+Bayern 2-0 Hertha
+Werder 1-2 Bayern
+Bayern 6-0 Schalke
+Bayern 1-3 RB Leipzig
+Koln 1-2 Bayern
